@@ -23,6 +23,11 @@ Font.register({
   ],
 })
 
+Font.register({
+  family: 'ZCool',
+  src: 'https://fonts.gstatic.com/s/zcoolkuaile/v7/tssqApdaRQokwFjFJjvM6h2WpozzoXhC2g.ttf'
+});
+
 interface Props {
   data?: Invoice
   pdfMode?: boolean
